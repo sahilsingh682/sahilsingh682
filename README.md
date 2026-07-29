@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20%26%20AI-Driven%20Systems&descAlignY=60&descColor=7fdbff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20and%20AI-Driven%20Systems&descAlignY=60&descColor=7fdbff" />
 
 </div>
 
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🛡️+Building+Drishti+Security+System;🩺+Democratizing+Healthcare+with+Seva-Setu;⚡+MERN+Stack+%2B+TypeScript+%2B+Supabase;🔥+Turning+Real-World+Problems+into+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Drishti+Security+System;Democratizing+Healthcare+with+Seva-Setu;MERN+Stack+%2B+TypeScript+%2B+Supabase;Turning+Real-World+Problems+into+Products)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
 <a href="https://linkedin.com/in/sahilsingh0521">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -34,15 +31,12 @@
 
 <br/><br/>
 
-<!-- Profile views & followers -->
 <img src="https://komarev.com/ghpvc/?username=sahilsingh682&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/sahilsingh682?style=for-the-badge&color=00D9FF&label=FOLLOWERS" />
 
 </div>
 
 ---
-
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="security/coding gif"/>
 
 ## 🧠 `whoami`
 
@@ -55,26 +49,23 @@ const sahil = {
 
   currentlyBuilding: ["Drishti Security System", "Seva-Setu"],
   learning:  ["System Design at Scale", "ML-driven Automation"],
-  strongSuit: "Full-Stack Architecture × Real-World Problem Solving",
+  strongSuit: "Full-Stack Architecture x Real-World Problem Solving",
 
   domains: [
-    "🛡️ Security & Surveillance Tech",
-    "🩺 HealthTech / AI Assistants",
-    "🌾 AgriTech Solutions",
-    "🛍️ E-Commerce Platforms"
+    "Security & Surveillance Tech",
+    "HealthTech / AI Assistants",
+    "AgriTech Solutions",
+    "E-Commerce Platforms"
   ],
 
-  funFact: "I ship products, not just prototypes. 🚀"
+  funFact: "I ship products, not just prototypes."
 };
 ```
-
-<br clear="right"/>
 
 ---
 
 ## 🚀 Flagship Projects
 
-<!-- Drishti Security System -->
 <table>
 <tr>
 <td width="55%">
@@ -111,7 +102,6 @@ An end-to-end e-commerce & operations platform built for CCTV and security solut
 
 ---
 
-<!-- Seva-Setu -->
 <table>
 <tr>
 <td width="45%" align="center">
@@ -147,7 +137,6 @@ Democratizing healthcare access in rural India through AI-driven multilingual su
 
 ---
 
-<!-- ML Project -->
 <table>
 <tr>
 <td width="55%">
@@ -180,9 +169,6 @@ An ML-powered web application predicting whether an online shopper will generate
 </tr>
 </table>
 
----
-
-<!-- Collabs -->
 <details>
 <summary><b>🤝 Collaborations & Other Projects (Click to expand)</b></summary>
 
@@ -249,7 +235,7 @@ An ML-powered web application predicting whether an online shopper will generate
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsingh682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh682&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=sahilsingh682&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" />
 
 <br/>
 
@@ -266,22 +252,21 @@ An ML-powered web application predicting whether an online shopper will generate
 ## 💼 Profile Highlights
 
 ```
-🎓  B.Tech CSE — Geeta University                          2023 – Present
-    ✦ Panipat, Haryana
+B.Tech CSE — Geeta University                          2023 – Present
+    Panipat, Haryana
 
-🛡️  Building Drishti Security System                       2026
-    ✦ Full-stack security e-commerce platform with live RBAC & payments
+Building Drishti Security System                       2026
+    Full-stack security e-commerce platform with live RBAC & payments
 
-🩺  Building Seva-Setu                                      2026
-    ✦ AI-powered healthcare accessibility platform for rural India
+Building Seva-Setu                                      2026
+    AI-powered healthcare accessibility platform for rural India
 
-🌾  Contributor — AgroTech Smart Farming Solutions           Ongoing
-    ✦ Org member, active contributor to live agri-tech platform
+Contributor — AgroTech Smart Farming Solutions           Ongoing
+    Org member, active contributor to live agri-tech platform
 ```
 
 ---
 
-<!-- Footer wave -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
