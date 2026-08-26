@@ -229,22 +229,7 @@ An ML-powered web application predicting whether an online shopper will generate
 </div>
 
 ---
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsingh682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=sahilsingh682&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh682&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahilsingh682&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
 
 ## 💼 Profile Highlights
 
