@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Sahil Singh - Full-Stack Developer | Geeta University | Security and AI-Driven Systems" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sahil%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Security%20%26%20AI-Driven%20Systems&descSize=20&descAlignY=58&descColor=7fdbff" />
+<img width="100%" alt="Sahil Singh - Full-Stack Developer | Geeta University | Security and AI-Driven Systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sahil%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Security%20%26%20AI-Driven%20Systems&descSize=20&descAlignY=58&descColor=7fdbff" />
 
 <a href="https://sahilportfolio-theta.vercel.app/">
   <img alt="Sahil Singh typing animation: Drishti Security System, Seva-Setu, MERN, TypeScript, Supabase" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=45&lines=Hi%2C+I'm+Sahil+Singh+%F0%9F%91%8B;Full-Stack+Developer+%40+Geeta+University;Building+Drishti+Security+System+%F0%9F%9B%A1%EF%B8%8F;Democratizing+Healthcare+with+Seva-Setu+%F0%9F%A9%BA;MERN+%2B+TypeScript+%2B+Supabase+%2B+Python" />
@@ -247,9 +247,6 @@ ML web app that predicts whether an online shopper will generate revenue from li
 
 <img alt="GitHub contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh682&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 
-<br/>
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=sahilsingh682&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -305,7 +302,7 @@ I'm open to **internships, collaborations and impactful full-stack projects**. I
 
 **🛡️ "Build systems that protect, empower, and scale."**
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
 
