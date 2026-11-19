@@ -2,7 +2,7 @@
 
 <!-- <img width="100%" alt="Sahil Singh - Full-Stack Developer | Geeta University | Security and AI-Driven Systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sahil%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Security%20%26%20AI-Driven%20Systems&descSize=20&descAlignY=58&descColor=7fdbff" /> -->
 
-<img width="100%" alt="Sahil Singh - Full-Stack Developer | Geeta University | Security and AI-Driven Systems"/>
+<!-- <img width="100%" alt="Sahil Singh - Full-Stack Developer | Geeta University | Security and AI-Driven Systems"/> -->
 
 
 <a href="https://sahilportfolio-theta.vercel.app/">
